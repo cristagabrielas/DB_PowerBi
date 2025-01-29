@@ -13,7 +13,6 @@ El dashboard está diseñado para:
 
 - **DB_RecursosHumanos.pbix**: Archivo del dashboard de Power BI.
 - **bd_integrantes_Esp.xlsx** : Conjunto de datos ficticios utilizados para crear el proyecto.
-- **
 
 ## 📊 Funcionalidades principales
 
