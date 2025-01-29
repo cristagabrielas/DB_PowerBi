@@ -28,4 +28,4 @@ El dashboard está diseñado para:
 
 ## 🤔 ¿Tienes dudas o sugerencias?
 
-¡Tu feedback es bienvenido! Si tienes comentarios sobre este proyecto, no dudes en abrir un issue o contactarme.
+¡Tu feedback es bienvenido! Si tienes comentarios sobre este proyecto, no dudes en contactarme.
